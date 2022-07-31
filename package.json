@@ -1,6 +1,6 @@
 {
   "name": "salus",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "oclif example Hello World CLI",
   "author": "nirmit @Nirmitjatana",
   "bin": {

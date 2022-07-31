@@ -23,7 +23,7 @@ $ npm install -g salus
 $ salus COMMAND
 running command...
 $ salus (--version)
-salus/0.0.0 win32-x64 node-v16.13.2
+salus/1.0.0 win32-x64 node-v16.13.2
 $ salus --help [COMMAND]
 USAGE
   $ salus COMMAND
@@ -325,7 +325,7 @@ EXAMPLES
   $ salus scan
 ```
 
-_See code: [dist/commands/scan.ts](https://github.com/Nirmitjatana/salus/blob/v0.0.0/dist/commands/scan.ts)_
+_See code: [dist/commands/scan.ts](https://github.com/Nirmitjatana/salus/blob/v1.0.0/dist/commands/scan.ts)_
 <!-- commandsstop -->
 * [`oex hello PERSON`](#oex-hello-person)
 * [`oex hello world`](#oex-hello-world)
